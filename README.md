@@ -3,7 +3,6 @@ services: app-service\web,app-service
 platforms: dotnet
 author: cephalin
 ---
-##Added Some of library
 
 ## ASP.NET sample for Azure App Service
 
